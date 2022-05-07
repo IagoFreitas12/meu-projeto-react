@@ -1,0 +1,24 @@
+body {
+  padding: 50px 0;
+  background-color: #efefef;
+  padding-bottom: 500px;
+}
+
+button {
+  width: 150px;
+  height: 30px;
+  cursor: pointer;
+  animation: 200ms;
+  border-radius: 8px;
+  color: beige;
+  background-color: rgb(93, 89, 89);
+  box-shadow: 2px;
+}
+
+p {
+  background-color: #9999;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
