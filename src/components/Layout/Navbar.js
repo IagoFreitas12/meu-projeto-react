@@ -5,13 +5,13 @@ function Navbar() {
     return (
         <ul className={styles.list}>
             <li className={styles.item}>
-            <Link Link to="/">Home</Link>
+                <Link to="/">Home</Link>
             </li>
             <li className={styles.item}>
-            <Link Link to="/Empresa">Empresa</Link>
+                <Link to="/Empresa">Empresa</Link>
             </li>
             <li className={styles.item}>
-            <Link Link to="/Contato">Contato</Link>
+                <Link to="/Contato">Contato</Link>
             </li>
       </ul>
     )
