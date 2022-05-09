@@ -1,9 +1,9 @@
-// import {FaFacebook, FaInstagram, FaLinkedin} from 'react-icons/fa'
+import {FaFacebook, FaInstagram, FaLinkedin} from 'react-icons/fa'
 
 function Footer() {
     return (
         <footer>    
-            {/* <ul>
+            <ul>
                 <li>
                     <FaFacebook/>
                 </li>
@@ -13,7 +13,7 @@ function Footer() {
                 <li>
                     <FaLinkedin/>
                 </li>
-            </ul> */}
+            </ul>
             <p>Nosso rodapé.</p>
         </footer>
     )
