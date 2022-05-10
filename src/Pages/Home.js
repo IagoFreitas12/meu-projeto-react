@@ -1,9 +1,9 @@
-import styles from '/Users/iago_/arquivos/meu-projeto/src/components/Layout/PageName.module.css'
+import React from 'react'
 
 function Home() {
     return (
         <div>
-            <h1 className={styles.PageName}>Home</h1>
+            <h1>Home</h1>
             <p>Conteudo da página.</p>
         </div>
     )
